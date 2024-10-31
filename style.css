@@ -9,6 +9,7 @@
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             font-style: oblique;
             color: white;
+            background-image:linear-gradient(green,yellow black) ;
         }
         h1{text-align: center;}
         h1{padding-left: 200px;}
